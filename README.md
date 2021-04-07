@@ -1,5 +1,5 @@
 ## References
-* [BP.json]()
+* [BP.json example](https://www.alohaeos.com/bp.json)
 * [Nodeos Common Setups: Producing, Non-Producing](https://developers.eos.io/manuals/eos/v2.1/nodeos/usage/node-setups/index)
 * [config.ini](https://github.com/CryptoLions/EOS-MainNet/blob/master/config.ini)
 * [Example config.ini for EOS Block Producer / Validator](https://gist.github.com/bensig/2cf281db5fb3a4119e7d729883942334)
