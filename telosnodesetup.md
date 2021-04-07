@@ -1,15 +1,27 @@
 # How to setup a validator node on Telos
 * A validator needs to know it's role & fulfill the requirements.
+* Having more validators is healthier and better for the Telos ecosystem, especially validators that are committed to transparency, and being in a state of giving continuous contribution.
+* Validators are a core component of Telos network built on EOSIO protocol.
+* Below is the guide to get a node up and running as a Validator on Telos.
 
 ## What is the role of a Telos Validator
-* They are a core component of Telos network built on EOSIO protocol.
-* Telos Validators play a key role in the operation of the network. 
+* Validators are decentralized entities that govern the Telos blockchain. Validators will produce the blocks of the Telos blockchain.
+* Telos Validators play a key role in the operation of the network.
 * They provide stability, reliability, security and extensive infrastructure coverage for Telos network.
 * Contribute to Telos developerment toolkits, so as to get noticed by the voters & stay in BP list eligibile for incentives (in TLOS tokens).
 * Telos Validators verify transactions on the Telos networks by collecting transaction data and storing that information in blocks. 
 * Once a block is prepared, validators broadcast the block to the network for verification.
+* Validators will earn block rewards in the form of TLOS tokens produced by token inflation.
+* Validators are responsible for Telos infrastructure growth, community support and education, and financial support for development of Telos DApps.
 
 ### Telos Validator Requirements
+* <u>__A Mission__</u> — what are you going to provide to the world as a Validator? How will you spend your TLOS? Why should people vote for you?
+* <u>__Unique EOS producer account__</u> — This should not resemble the name of any current Telos Validator Candidates. You can view all of the current Validators and Validator Candidates here: https://telos.bloks.io/
+* <u>__A few servers running nodeos__</u> — virtual machines or even a desktop with a lot of RAM would be ok to start off. Some Block Producers are running on desktop hardware (i7 or i9 chips). You just need to provide the RAM that is required by Telos Mainnet and it increases at 1 KB/block currently. It is ~ 12.56 GB at the time of writing this.
+* <u>__Website__</u> — your website should have a `bp.json` ([example](https://www.alohaeos.com/bp.json)) at it's root, and links to an ownership disclosure ([example](https://www.alohaeos.com/ownership)), and a code of conduct ([example](https://www.alohaeos.com/conduct))).
+* <u>__Producer account creation for rewards__</u> — Create a unique Telos Account that will be the name of your Validator. Telos Accounts are 12 characters long. For more, visit here: 
+	- [Telos account creator](https://telos-account-creator.com/)
+	- [FREE Telos account via Sqrl Wallet](https://telosuk.io/how-to-create-a-free-telos-account/)
 
 ## What is a Telos validator node
 * In the Telos network, block production and block validation are performed by special nodes called "Telos validator node". Validator nodes are elected by Telos stakeholders. Each validator node runs an instance of an Telos node using the nodeos service. For this reason, validators that are on the active schedule to produce blocks are also called "active" or "producing" validator nodes.
