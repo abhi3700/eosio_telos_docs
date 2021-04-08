@@ -19,3 +19,4 @@
 * [EOS account creator](https://eos-account-creator.com/)
 * [Telos account creator](https://telos-account-creator.com/)
 * [EOS BP Guide: How to Setup a Block Signing Key](https://medium.com/eostribe/eos-bp-guide-how-to-setup-a-block-signing-key-cb156539ad55)
+* [Setup a new EOS Chain on Digital Ocean](https://medium.com/@bkawk/setup-a-new-eos-chain-on-digital-ocean-2211bdf08806)
