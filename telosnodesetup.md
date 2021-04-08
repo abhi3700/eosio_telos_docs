@@ -100,10 +100,13 @@ $ git checkout tags/v2.0.11`
 ```
 
 ## run Nodeos
+`nodeos` generally runs in 2 modes:
 
 ### A. Producing mode
+`Producing Validator Nodes` are configured for block production. They connect to the peer-to-peer (p2p) network and actively produce new blocks. Loose transactions are also validated and relayed. On mainnet, Producing Validator Nodes only produce blocks if their assigned block producer is part of an active schedule.
 
 ### B. Non-Producing mode
+`Non-Producing Validator Nodes` connect to the peer-to-peer (p2p) network but do not actively produce new blocks; they are useful for acting as proxy nodes, relaying API calls, validating transactions, broadcasting information to other nodes, etc. `Non-Producing Validator Nodes` are also useful for monitoring the blockchain state.
 
 ## Configuration Files
 
