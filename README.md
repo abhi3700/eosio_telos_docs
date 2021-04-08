@@ -1,5 +1,6 @@
 ## References
 * [BP.json example](https://www.alohaeos.com/bp.json)
+* [JSON Standard for Block Producer Information on EOSIO Blockchains](https://github.com/eosrio/bp-info-standard)
 * [Nodeos Common Setups: Producing, Non-Producing](https://developers.eos.io/manuals/eos/v2.1/nodeos/usage/node-setups/index)
 * [config.ini](https://github.com/CryptoLions/EOS-MainNet/blob/master/config.ini)
 * [Example config.ini for EOS Block Producer / Validator](https://gist.github.com/bensig/2cf281db5fb3a4119e7d729883942334)
@@ -17,3 +18,4 @@
 * [Letter to EOS Block Producer Candidates](https://medium.com/@bensig/letter-to-eos-block-producer-candidates-184ef59a0748)
 * [EOS account creator](https://eos-account-creator.com/)
 * [Telos account creator](https://telos-account-creator.com/)
+* [EOS BP Guide: How to Setup a Block Signing Key](https://medium.com/eostribe/eos-bp-guide-how-to-setup-a-block-signing-key-cb156539ad55)
