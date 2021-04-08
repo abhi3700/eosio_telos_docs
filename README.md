@@ -1,5 +1,6 @@
 ## References
 * [BP.json example](https://www.alohaeos.com/bp.json)
+* [Telos genesis.json](https://github.com/telosnetwork/api-p2p-nodes/blob/master/genesis.json)
 * [JSON Standard for Block Producer Information on EOSIO Blockchains](https://github.com/eosrio/bp-info-standard)
 * [Nodeos Common Setups: Producing, Non-Producing](https://developers.eos.io/manuals/eos/v2.1/nodeos/usage/node-setups/index)
 * [config.ini](https://github.com/CryptoLions/EOS-MainNet/blob/master/config.ini)
